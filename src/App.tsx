@@ -378,7 +378,7 @@ Remember, filing false FIR is a punishable offense. Ensure all information is ac
           <div className="flex items-center space-x-2">
             <Scale className="h-8 w-8 text-blue-600" />
             <span className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
-              Wakalatnama Beta Version
+              Wakalatguru Beta Version
             </span>
           </div>
           
@@ -495,7 +495,7 @@ Remember, filing false FIR is a punishable offense. Ensure all information is ac
       <section className="py-20 bg-white">
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
-            <h2 className="text-4xl font-bold text-gray-800 mb-4">Why Choose Wakalatnama?</h2>
+            <h2 className="text-4xl font-bold text-gray-800 mb-4">Why Choose Wakalatguru?</h2>
             <p className="text-xl text-gray-600">Your one-stop solution for all legal needs</p>
           </div>
 
@@ -1491,7 +1491,7 @@ Remember, filing false FIR is a punishable offense. Ensure all information is ac
             <div>
               <div className="flex items-center space-x-2 mb-4">
                 <Scale className="h-8 w-8 text-blue-400" />
-                <span className="text-2xl font-bold">Wakalatnama</span>
+                <span className="text-2xl font-bold">Wakalatguru</span>
               </div>
               <p className="text-gray-400 mb-4">
                 Your trusted legal partner for finding qualified lawyers, testing legal knowledge, and staying updated with Indian law.
@@ -1518,14 +1518,14 @@ Remember, filing false FIR is a punishable offense. Ensure all information is ac
             <div>
               <h4 className="text-lg font-semibold mb-4">Contact</h4>
               <div className="space-y-2 text-gray-400">
-                <p>📧 contact@wakalatnama.in</p>
+                <p>📧 contact@Wakalatguru.in</p>
                 <p>📞 +91-11-4567-8900</p>
                 <p>📍 New Delhi, India</p>
               </div>
             </div>
           </div>
           <div className="border-t border-gray-700 pt-8 mt-8 text-center text-gray-400">
-            <p>&copy; 2024 Wakalatnama. All rights reserved. | Legal Services Platform for India</p>
+            <p>&copy; 2024 Wakalatguru. All rights reserved. | Legal Services Platform for India</p>
           </div>
         </div>
       </footer>
